@@ -18,7 +18,7 @@ int ehPrimo(long long int n) {
 
 int main(int argc, char *argv[]) {
   double ini, fim;
-  int k;
+  long long int k;
   long long int n = atoll(argv[1]);
 
   GET_TIME(ini);
